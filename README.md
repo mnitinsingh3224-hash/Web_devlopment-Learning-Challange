@@ -6,7 +6,8 @@ This repository contains my web development practice projects created while lear
 
 - `login.html` – Simple login page
 - `navbar.html` – Navigation bar design
-
+- `landingPage` – Landing Page
+- `Flexbox.html` – Different flex box design concepts
 ## Technologies Used
 
 - HTML
