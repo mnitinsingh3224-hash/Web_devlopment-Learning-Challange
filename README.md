@@ -18,6 +18,7 @@ This repository contains my web development practice projects created while lear
 
 - Practice web development
 - Improve frontend skills
+- Improve backend skills
 - Build small projects
 
 ## Author
